@@ -3,5 +3,5 @@
 <ul>
   <li>Koty Potts</li>
   <li>Jack Runge</li>
-  <li>Nichol Henderson</li>
+  <li>Nichole Henderson</li>
 </ul>
