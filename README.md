@@ -17,6 +17,7 @@ https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html
 https://stackoverflow.com/questions/26763344/convert-pandas-column-to-datetime
 https://pandas.pydata.org/docs/user_guide/options.html
 https://catalog.data.gov/dataset/crash-reporting-drivers-data
+https://stackoverflow.com/questions/37625334/convert-month-int-to-month-name-in-pandas
 
 ### Navigation through Repository
 In the main folder of repository, you'll find the analysis of the data separated based on the different questions we wanted to ask. There will be a notebook analyzing the environmental conditions affecting injury severity, driver conditions affecting injury severity, and vehicle conditions affecting injury severity. Inside the resources folder, you'll find the original dataset under Crash_Reporting_-_Drivers_Data.csv. You'll also find output figures under the Images folder.
