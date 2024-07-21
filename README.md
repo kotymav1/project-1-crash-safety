@@ -1,5 +1,21 @@
-# Factors That Minimize Injuries in Car Crashes & Other Insights
+# Factors That Minimize Injuries in Car Crashes in Montgomery County, MD
 ## by Koty Potts, Jack Runge, and Nicole Henderson
+
+### Introduction
+This project aims to analyze public crash report data in Montgomery County, MD from January 1 2015 to December 31 2023.
+The goal of our analysis was to uncover insights into various factors that influence the severity of injuries sustained 
+in car crashes and to propose recommendations for enhancing road safety.
+
+The factors that we studied were:
+1. Environmental factors, including speed limit and date of crash
+2. Driver conditions, including alcohol and driver at-fault
+3. Vehicle conditions, including vehicle make and year
+
+#### Data Source
+From data.gov, a csv that holds records of around 170,000 accidents in Montgomery County, MD from 2015 to 2023.
+[https://catalog.data.gov/dataset/crash-reporting-drivers-data](https://catalog.data.gov/dataset/crash-reporting-drivers-data) <br/>
+![Project1ListColumns](https://github.com/user-attachments/assets/e78a5e3c-5a45-4b59-8959-b9f161157f7d) <br/>
+![Project_1_columns](https://github.com/user-attachments/assets/13ac12ac-4227-4001-906b-30b398a7fb4e)
 
 ### Proposal
 https://docs.google.com/document/d/1aMJkBt-g-v69772nm9E2gI6Gbtyg9z6pSmKsPukXDuI/edit#heading=h.lntg56ljm653
