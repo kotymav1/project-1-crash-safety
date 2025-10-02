@@ -1,6 +1,3 @@
-# Factors That Minimize Injuries in Car Crashes in Montgomery County, MD
-## by Koty Potts, Jack Runge, and Nicole Henderson
-
 ### Introduction
 This project aims to analyze public crash report data in Montgomery County, MD from January 1 2015 to December 31 2023.
 The goal of our analysis was to uncover insights into various factors that influence the severity of injuries sustained 
